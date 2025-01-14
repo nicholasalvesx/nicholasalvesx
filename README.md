@@ -6,7 +6,7 @@ I am a currently studying for a Bachelor's degree in Software Engineering at Uni
 
 ---
 
-## Tools and Technologies  
+## Tools and technologies i use  
 
 <p align="center">
   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/96/golang_logo_icon_171073.png" alt="Golang" width="70px" height="70px">
