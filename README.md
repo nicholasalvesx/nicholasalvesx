@@ -10,9 +10,9 @@
 
   <p align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
     <img src="https://dwglogo.com/wp-content/uploads/2017/09/Postgresql_logo.png" alt="PostgreSQL" width="100" height="70" />
-    <img src="https://static.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="70" height="70" />
-    <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_1280.png" alt="JavaScript" width="70" height="70" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" alt="Razor (.NET)" width="70" height="70" />
+    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="70" height="70" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Razor_Logo.svg" alt="Razor" width="80" height="80" />
   </p>
 
   <hr style="border: none; border-top: 1px solid #ddd; margin: 16px 0;" />
@@ -24,6 +24,15 @@
     <img src="https://tk2000.com.br/wp-content/uploads/2021/11/logo.png" alt="TK2000 Logo" width="250" height="150" />
   </a>
 
-  <img src="https://raw.githubusercontent.com/DAVICOTTING/DAVICOTTING/output/snake.svg" alt="Snake animation" />
+  <hr style="border: none; border-top: 1px solid #ddd; margin: 16px 0;" />
+
+  <h2>GitHub Stats</h2>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasalvesx&theme=tokyonight" alt="GitHub Streak" height="160" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
+  </p>
 
 </div>
