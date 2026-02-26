@@ -54,17 +54,18 @@
   <hr>
   <br>
 
-  <!-- GitHub Stats -->
-  <h2>GitHub Stats</h2>
+ <!-- GitHub Stats -->
+<h2>GitHub Stats</h2>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicholasalvesx&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nicholasalvesx&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=nicholasalvesx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-  <br><br>
+<img height="160" src="https://streak-stats.demolab.com?user=nicholasalvesx&theme=tokyonight&hide_border=true"/>
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight&hide_border=true"/>
+<br><br>
 
-  <br><br>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+
+<br><br>
 
   <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
