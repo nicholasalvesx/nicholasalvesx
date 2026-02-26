@@ -1,11 +1,9 @@
 <div align="center">
 
-  <!-- Animated Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nicholas%20Alves&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
   <br>
 
-  <!-- Typing Animation -->
   <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Scalable+Applications;Clean+Architecture+Focused" />
 
   <br><br>
@@ -63,7 +61,6 @@
 
   <br><br>
 
-  <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
