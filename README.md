@@ -68,7 +68,7 @@
     <img src="https://tk2000.com.br/wp-content/uploads/2021/11/logo.png" width="220"/>
   </a>
 
-  <br>
+   <br>
   <hr>
   <br>
 
@@ -76,15 +76,15 @@
 
   <p>
     <a href="#" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+      <img src="https://camo.githubusercontent.com/835f91c273c180e842aa0b2fb0d5ccc52def20089589abbcefceb28317c583f8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465"/>
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="#" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+      <img src="https://camo.githubusercontent.com/306b9dc9e6af92f3e92f1ac52aea768bcdd33898cc6d133bb6e8228928954af4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465"/>
     </a>
-    &nbsp;&nbsp;&nbsp;
+    &nbsp;&nbsp;
     <a href="#" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="50"/>
+      <img src="https://camo.githubusercontent.com/be49b008b2b350f82b104c71c6c4168ab1f09448919a354bdc47aea0cbf042a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465"/>
     </a>
   </p>
 
