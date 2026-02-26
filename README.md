@@ -5,41 +5,52 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Scalable+Applications" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Scalable+Applications;Clean+Architecture+Focused" />
 
   <br><br>
 
   <p>
-      Bachelor's Degree in Software Engineering <br>
-      Focused on scalable systems, clean architecture and performance
+    Bachelor's Degree in Software Engineering <br>
+    Full Stack Developer focused on scalable systems and clean architecture
   </p>
 
   <br>
   <hr>
   <br>
 
-  <!-- Tech Stack -->
+  <h2>About</h2>
+
+  <p>
+    Full Stack Developer with strong backend foundation and modern frontend experience. <br>
+    Experience building structured, maintainable and high-performance systems. <br>
+    Constantly improving technical and architectural skills.
+  </p>
+
+  <br>
+  <hr>
+  <br>
+
   <h2>Tech Stack</h2>
 
   <h3>Backend</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="65"/>
   </p>
 
   <h3>Frontend</h3>
   <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="65"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="65"/>
   </p>
 
   <br>
   <hr>
   <br>
 
-  <!-- Business -->
   <h2>Business</h2>
 
   <p>
@@ -51,21 +62,6 @@
   </a>
 
   <br><br>
-  <hr>
-  <br>
-
- <!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=nicholasalvesx&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="160" src="https://streak-stats.demolab.com?user=nicholasalvesx&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<br><br>
 
   <!-- Footer Wave -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
