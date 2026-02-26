@@ -68,7 +68,27 @@
     <img src="https://tk2000.com.br/wp-content/uploads/2021/11/logo.png" width="220"/>
   </a>
 
-  <br><br>
+  <br>
+  <hr>
+  <br>
+
+  <h2>Contact</h2>
+
+  <p>
+    <a href="#" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/>
+    </a>
+    &nbsp;&nbsp;&nbsp;
+    <a href="#" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="50"/>
+    </a>
+  </p>
+
+  <br>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
