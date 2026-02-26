@@ -1,38 +1,72 @@
-<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+<div align="center">
 
-  <h1>Nicholas Alves | Back-End Developer</h1>
+  <!-- Animated Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Nicholas%20Alves&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-  <p>I am currently studying for a Bachelor's degree in Software Engineering at Uniasselvi.</p>
+  <br>
 
-  <hr style="border: none; border-top: 1px solid #ddd; margin: 16px 0;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineering+Student;Building+Scalable+Applications" />
 
-  <h2>Tools and technologies I use</h2>
+  <br><br>
 
-  <p align="center" style="display:flex; gap:16px; justify-content:center; flex-wrap:wrap;">
-    <img src="https://dwglogo.com/wp-content/uploads/2017/09/Postgresql_logo.png" alt="PostgreSQL" width="100" height="70" />
-    <img src="https://cdn.cdnlogo.com/logos/c/27/c.svg" alt="C#" width="70" height="70" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" alt="Razor" width="80" height="80" />
+  <p>
+      Bachelor's Degree in Software Engineering <br>
+      Focused on scalable systems, clean architecture and performance
   </p>
 
-  <hr style="border: none; border-top: 1px solid #ddd; margin: 16px 0;" />
+  <br>
+  <hr>
+  <br>
 
+  <!-- Tech Stack -->
+  <h2>Tech Stack</h2>
+
+  <h3>Backend</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="70"/>
+  </p>
+
+  <h3>Frontend</h3>
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="70"/>
+  </p>
+
+  <br>
+  <hr>
+  <br>
+
+  <!-- Business -->
   <h2>Business</h2>
-  <blockquote>Developer at TK2000 — A Casa do Software</blockquote>
 
-  <a href="https://tk2000.com.br/">
-    <img src="https://tk2000.com.br/wp-content/uploads/2021/11/logo.png" alt="TK2000 Logo" width="250" height="150" />
+  <p>
+    Developer at <strong>TK2000 — A Casa do Software</strong>
+  </p>
+
+  <a href="https://tk2000.com.br/" target="_blank">
+    <img src="https://tk2000.com.br/wp-content/uploads/2021/11/logo.png" width="220"/>
   </a>
 
-  <hr style="border: none; border-top: 1px solid #ddd; margin: 16px 0;" />
+  <br><br>
+  <hr>
+  <br>
 
+  <!-- GitHub Stats -->
   <h2>GitHub Stats</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=nicholasalvesx&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160" />
-    <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nicholasalvesx&theme=tokyonight" alt="GitHub Streak" height="160" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
-  </p>
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nicholasalvesx&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=nicholasalvesx&theme=tokyonight&hide_border=true"/>
+
+  <br><br>
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasalvesx&layout=compact&theme=tokyonight&hide_border=true"/>
+
+  <br><br>
+
+  <!-- Footer Wave -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 
 </div>
